@@ -1,6 +1,0 @@
-local InfiniteJumpEnabled = true
-game: GetService("UserInputService"). JumpReque:
-if InfiniteJumpEnabled then
-game: GetService"Players". Local
-end
-end)
